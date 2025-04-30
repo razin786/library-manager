@@ -1,4 +1,4 @@
-# Tkinter-Library-Project
+# library-manager
 
 A library management program created using Python and MySQL.
 
